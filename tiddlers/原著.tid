@@ -1,0 +1,11 @@
+author: 孙渣
+created: 20241013051230445
+modified: 20241013053350978
+title: 原著
+type: text/vnd.tiddlywiki
+
+! 《粪海狂蛆》原著
+
+<$list filter="[tag[原著]]">
+<$image source=<<currentTiddler>> alt=<<currentTiddler>> style="max-width: 100%; height: auto;"/>
+</$list>
