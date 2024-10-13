@@ -1,0 +1,10 @@
+created: 20241013053436363
+list-after: 
+modified: 20241013053534075
+tags: $:/tags/ViewTemplate/Subtitle
+title: $:/subtitle/author
+type: text/vnd.tiddlywiki
+
+<$reveal type="nomatch" state="!!author" tag="span" text="">
+原作者：<$link to={{!!author}}/>
+</$reveal>
