@@ -2,13 +2,13 @@ name: Build & Deploy
 on:
   workflow_dispatch:
   push:
-    branches: [master]
+    branches: [main]
     paths-ignore:
       - README.md
       - LICENSE
       - .gitignore
   pull_request:
-    branches: [master]
+    branches: [main]
     paths-ignore:
       - README.md
       - LICENSE
