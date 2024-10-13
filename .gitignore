@@ -1,3 +1,6 @@
+tiddlers/$__StoryList*.tid
+output
+
 # Logs
 logs
 *.log

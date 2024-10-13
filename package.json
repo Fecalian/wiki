@@ -1,0 +1,25 @@
+{
+  "name": "fecalian-wiki",
+  "version": "0.0.0",
+  "description": "Personal wiki",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "build": "tiddlywiki --build index && mv output/index.html .",
+    "start": "tiddlywiki --listen port=9731",
+    "test": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fecalian/wiki.git"
+  },
+  "author": "miroox <miroox@outlook.com> (https://miroox.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "tiddlywiki": "^5.3.2"
+  },
+  "bugs": {
+    "url": "https://github.com/miRoox/Fecalian/issues"
+  },
+  "homepage": "https://github.com/miRoox/Fecalian#readme"
+}
