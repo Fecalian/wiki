@@ -1,0 +1,19 @@
+created: 20241020092903367
+modified: 20241020093157799
+tags: Template
+title: Template:单位基本信息
+type: text/vnd.tiddlywiki
+
+@@float:right;
+| !造价 | {{!!unit-cost}} |
+| !护甲 | <$link to={{!!unit-armor}}>{{!!unit-armor}}</$link> |
+| !生命 | {{!!unit-strength}} |
+| !视野 | {{!!unit-sight}} |
+| !速度 | {{!!unit-speed}} |
+| !科技等级 | {{!!unit-techlevel}} |
+| !所属 | <<list-links [enlist{!!unit-owners}]>> |
+| !基础能力 | {{!!unit-ability}} |
+| !老兵能力 | {{!!unit-veteran-ability}} |
+| !精英能力 | {{!!unit-elite-ability}} |
+| !建造限额 | {{!!unit-build-limit}} |
+@@

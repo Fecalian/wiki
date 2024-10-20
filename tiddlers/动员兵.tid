@@ -1,15 +1,18 @@
 created: 20241019080832165
-modified: 20241020072500736
+modified: 20241020094022856
 tags: 步兵
 title: 动员兵
 type: text/vnd.tiddlywiki
+unit-armor: 布甲
+unit-build-limit: ∞
+unit-cost: 150
+unit-owners: 地球保卫组织 洁净都市 钢铁之门
+unit-sight: 5
+unit-speed: 4
+unit-strength: 120
+unit-techlevel: 1
 
-| !造价 | 150 |
-| !护甲 | [[布甲]] |
-| !生命 | 120 |
-| !视野 | 5 |
-| !速度 | 4 |
-| !科技等级 | 1 |
-| !所属 | [[地球保卫组织]] [[洁净都市]] [[钢铁之门]] |
+{{||Template:单位基本信息}}
+
 | !武器 |突击步枪 |
 | !副武器 |手雷：攻击载具时默认使用 |

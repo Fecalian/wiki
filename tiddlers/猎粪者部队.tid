@@ -1,15 +1,16 @@
 created: 20241019080845018
-modified: 20241020072717201
+modified: 20241020115009029
 tags: 步兵
 title: 猎粪者部队
 type: text/vnd.tiddlywiki
+unit-armor: 金属衣
+unit-cost: 800
+unit-owners: 地球保卫组织 洁净都市 钢铁之门
+unit-sight: 8
+unit-strength: 180
+unit-techlevel: 5
 
-| !造价 | 1200 |
-| !护甲 | [[金属衣]] |
-| !生命 | 150 |
-| !视野 | 8 |
-| !速度 | 5 |
-| !科技等级 | 4 |
-| !所属 | [[地球保卫组织]] [[洁净都市]] [[钢铁之门]] |
+{{||Template:单位基本信息}}
+
 | !武器 |反粪便突击步枪 |
 | !部署武器 |小型火箭弹 |

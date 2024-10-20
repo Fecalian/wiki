@@ -1,15 +1,16 @@
 created: 20241019080951455
-modified: 20241020080947594
+modified: 20241020115322318
 tags: 步兵
 title: 武装民兵
 type: text/vnd.tiddlywiki
+unit-armor: 无护甲
+unit-cost: 100
+unit-owners: 天启会 阿卡西科技
+unit-sight: 5
+unit-speed: 4
+unit-strength: 80
 
-| !造价 | 100 |
-| !护甲 | [[无护甲]] |
-| !生命 | 80 |
-| !视野 | 5 |
-| !速度 | 4 |
-| !科技等级 |  |
-| !所属 | [[天启会]] [[阿卡西科技]] |
+{{||Template:单位基本信息}}
+
 | !武器 |燃烧瓶：有3枚弹药，用完后会使用默认武器 |
 | !默认武器 |狩猎步枪 |

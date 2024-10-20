@@ -1,17 +1,19 @@
 created: 20241020074432702
-modified: 20241020075515392
+modified: 20241020114310899
 tags: 步兵
 title: 尖兵
 type: text/vnd.tiddlywiki
+unit-ability: 隐形
+unit-armor: 布甲
+unit-build-limit: 10
+unit-cost: 1000
+unit-owners: 地球保卫组织 洁净都市
+unit-sight: 15
+unit-speed: 5
+unit-strength: 200
+unit-techlevel: 7
 
-| !造价 | 1000 |
-| !护甲 | [[布甲]] |
-| !生命 | 200 |
-| !视野 | 15 |
-| !速度 | 6 |
-| !科技等级 | 7 |
-| !所属 | [[地球保卫组织]] [[洁净都市]] |
-| !建造限额 | 10 |
+{{||Template:单位基本信息}}
+
 | !武器 |穿甲狙击枪：秒杀绝大多数[[步兵]]，可以击杀[[载具]]驾驶员使之进入无人状态，使用时不会显形 |
 | !副武器 |定时炸弹 |
-| !能力 | 隐形 |
