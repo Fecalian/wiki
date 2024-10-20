@@ -1,0 +1,18 @@
+[
+    {
+        "created": "20241019081250584",
+        "text": "{{||Template:单位基本信息}}\n\n\n[[粪灵军团]]的史诗单位",
+        "tags": "载具",
+        "title": "屎徒",
+        "modified": "20241020120807519",
+        "type": "text/vnd.tiddlywiki",
+        "unit-cost": "12000",
+        "unit-armor": "超粪装甲",
+        "unit-strength": "1800",
+        "unit-sight": "9",
+        "unit-speed": "6",
+        "unit-techlevel": "10",
+        "unit-owners": "粪灵军团 ",
+        "unit-build-limit": "1"
+    }
+]

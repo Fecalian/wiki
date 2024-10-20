@@ -1,15 +1,18 @@
 created: 20241020073809132
-modified: 20241020074353612
+modified: 20241020114550348
 tags: 步兵
 title: 狂信者
 type: text/vnd.tiddlywiki
+unit-armor: 无护甲
+unit-build-limit: 30
+unit-cost: 50
+unit-owners: 天启会
+unit-sight: 5
+unit-speed: 8
+unit-strength: 100
+unit-techlevel: 2
 
-| !造价 | 50 |
-| !护甲 | [[无护甲]] |
-| !生命 | 100 |
-| !视野 | 6 |
-| !速度 | 8 |
-| !科技等级 | 2 |
-| !所属 | [[天启会]] |
+{{||Template:单位基本信息}}
+
 | !武器 |自杀式袭击 |
 | !附加属性 |演说：提升周围2.5单元半径内单位的移动速度和攻击力 |

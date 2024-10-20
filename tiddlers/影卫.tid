@@ -1,17 +1,19 @@
 created: 20241020074919570
-modified: 20241020081015131
+modified: 20241020115158525
 tags: 步兵
 title: 影卫
 type: text/vnd.tiddlywiki
+unit-ability: 隐形 免疫粪毒
+unit-armor: 布甲
+unit-build-limit: 12
+unit-cost: 800
+unit-owners: 天启会 阿卡西科技
+unit-sight: 7
+unit-speed: 7
+unit-strength: 200
+unit-techlevel: 7
 
-| !造价 | 800 |
-| !护甲 | [[布甲]] |
-| !生命 | 200 |
-| !视野 | 8 |
-| !速度 | 7 |
-| !科技等级 | 7 |
-| !所属 | [[天启会]] [[阿卡西科技]] |
-| !建造限额 | 10 |
+{{||Template:单位基本信息}}
+
 | !武器 |匕首：使用时不会显形 |
 | !副武器 |定时炸弹 |
-| !能力 | 隐形，免疫粪毒 |

@@ -1,14 +1,18 @@
 created: 20241019081032897
-modified: 20241020071301321
+modified: 20241020114112490
 tags: 步兵
 title: 粪便投掷者
 type: text/vnd.tiddlywiki
+unit-ability: 粪上回血
+unit-armor: 软粪便
+unit-build-limit: ∞
+unit-cost: 300
+unit-owners: 粪便星人 粪灵军团 死亡粪海
+unit-sight: 6
+unit-speed: 3
+unit-strength: 120
+unit-techlevel: 1
 
-| !造价 | 300 |
-| !护甲 | [[软粪便]] |
-| !生命 | 120 |
-| !视野 | 6 |
-| !速度 | 3 |
-| !科技等级 | 1 |
-| !所属 | [[粪便星人]] [[粪灵军团]] [[死亡粪海]] |
+{{||Template:单位基本信息}}
+
 | !武器 |粪投掷：伤害轻微，但会引起目标步兵中毒 |

@@ -17,3 +17,13 @@
   -webkit-column-count: 3;
   -webkit-column-gap: 1em;
 }
+
+.tc-tiddler-body:before,
+.tc-tiddler-body:after {
+    content: "";
+    display: table;
+}
+
+.tc-tiddler-body:after {
+    clear: both;
+}

@@ -1,14 +1,17 @@
 created: 20241019081143278
-modified: 20241020065638616
+modified: 20241020120413659
 tags: 载具
 title: 吞噬者
 type: text/vnd.tiddlywiki
+unit-armor: 软粪便
+unit-build-limit: 15
+unit-cost: 3200
+unit-owners: 粪便星人 粪灵军团 死亡粪海
+unit-sight: 5
+unit-speed: 4
+unit-strength: 1000
+unit-techlevel: 2
 
-| !造价 | 3200 |
-| !护甲 | [[软粪便]] |
-| !生命 | 800 |
-| !视野 | 6 |
-| !速度 | 4 |
-| !科技等级 | 2 |
-| !所属 | [[粪便星人]] [[粪灵军团]] [[死亡粪海]] |
+{{||Template:单位基本信息}}
+
 | !武器 |吞噬粪口：吞噬敌方单位，转换为[[粪资源]] |
