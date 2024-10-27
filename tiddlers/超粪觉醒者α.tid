@@ -1,0 +1,20 @@
+created: 20241019081018294
+modified: 20241027114142479
+tags: 步兵
+title: 超粪觉醒者α
+type: text/vnd.tiddlywiki
+unit-ability: 免疫控制 免疫粪毒 自动回血
+unit-armor: 布甲
+unit-build-limit: 1
+unit-cost: 6000
+unit-owners: 天启会 阿卡西科技
+unit-sight: 10
+unit-speed: 7
+unit-strength: 800
+unit-techlevel: 10
+
+{{||Template:单位基本信息}}
+
+| !主武器 |粪虫上脑：藉由控制目标体内的粪虫控制目标单位。最多同时控制9个单位 |
+| !部署释放武器 |粪雾：让范围内的敌方单位陷入混乱 |
+
